@@ -38,11 +38,9 @@
     .title {
       font-weight: 500;
       font-size: 1.125rem;
-      a {
-        &:hover {
-          text-decoration: underline;
-          color: $oc-violet-5;
-        }
+      &:hover {
+        text-decoration: underline;
+        color: $oc-violet-5;
       }
     }
     p {
